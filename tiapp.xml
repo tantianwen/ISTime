@@ -3,10 +3,17 @@
     <id>com.idp.istime</id>
     <name>ISTime</name>
     <version>1.0</version>
+<<<<<<< HEAD
     <publisher>James</publisher>
     <url>http://</url>
     <description>not specified</description>
     <copyright>2013 by James</copyright>
+=======
+    <publisher>tianwen</publisher>
+    <url>http://</url>
+    <description>not specified</description>
+    <copyright>2013 by tianwen</copyright>
+>>>>>>> 2cf7ea76b7791eb2fd961a23b3fb229b6d7f92fa
     <icon>appicon.png</icon>
     <persistent-wifi>false</persistent-wifi>
     <prerendered-icon>false</prerendered-icon>
@@ -15,7 +22,11 @@
     <fullscreen>false</fullscreen>
     <navbar-hidden>false</navbar-hidden>
     <analytics>true</analytics>
+<<<<<<< HEAD
     <guid>932cd9ea-1401-4587-a839-e523574fb71c</guid>
+=======
+    <guid>3b72ffcb-3fb3-4613-a8ef-203e0d23022b</guid>
+>>>>>>> 2cf7ea76b7791eb2fd961a23b3fb229b6d7f92fa
     <property name="ti.ui.defaultunit" type="string">system</property>
     <iphone>
         <orientations device="iphone">

@@ -1,7 +1,11 @@
 #appname: ISTime
 #appid: com.idp.istime
 #type: mobile
+<<<<<<< HEAD
 #guid: 932cd9ea-1401-4587-a839-e523574fb71c
+=======
+#guid: 3b72ffcb-3fb3-4613-a8ef-203e0d23022b
+>>>>>>> 2cf7ea76b7791eb2fd961a23b3fb229b6d7f92fa
 #version: 1.0
 #publisher: not specified
 #url: not specified
